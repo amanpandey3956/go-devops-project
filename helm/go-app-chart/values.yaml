@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: amanpandey3956/go-devops-project
   pullPolicy: IfNotPresent
-  tag: "v1"
+  tag: "22928556236"
 
 ingress:
   enabled: false
