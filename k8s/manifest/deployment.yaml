@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: amanpandey3956/go-devops-project
+        image: amanpandey3956/go-devops-project:v1
         ports:
         - containerPort: 8080
